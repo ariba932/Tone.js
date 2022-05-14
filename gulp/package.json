@@ -8,8 +8,8 @@
     "del": "^2.2.2",
     "glob": "^7.1.0",
     "graceful-fs": "^4.1.6",
-    "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^3.1.1",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
     "gulp-concat": "^2.5.2",
     "gulp-concat-css": "^2.2.0",
     "gulp-indent": "^1.0.0",
@@ -31,7 +31,7 @@
     "karma-requirejs": "^1.1.0",
     "mocha": "^3.0.2",
     "requirejs": "^2.1.22",
-    "yargs": "^5.0.0"
+    "yargs": "^13.2.4"
   },
   "scripts": {
     "test": "gulp karma-test"
