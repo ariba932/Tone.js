@@ -15,7 +15,7 @@
     "gulp-indent": "^1.0.0",
     "gulp-insert": "^0.5.0",
     "gulp-jshint": "^2.0.1",
-    "gulp-open": "^2.0.0",
+    "gulp-open": "^3.0.1",
     "gulp-rename": "^1.2.2",
     "gulp-replace": "^0.5.3",
     "gulp-ruby-sass": "^2.1.0",
